@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef74043f-d576-4f5e-9326-a26d40e9ece3" name="Changes" comment="VERY SKIBIDI SIGMA">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/DUMDUM_CMPE.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python File (Lecture)/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Package/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -213,6 +205,7 @@
       <updated>1759538738563</updated>
       <workItem from="1759538739797" duration="13476000" />
       <workItem from="1759982121989" duration="1509000" />
+      <workItem from="1760025560159" duration="142000" />
     </task>
     <task id="LOCAL-00001" summary="VERY SKIBIDI SIGMA">
       <option name="closed" value="true" />
