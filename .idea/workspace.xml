@@ -5,15 +5,49 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef74043f-d576-4f5e-9326-a26d40e9ece3" name="Changes" comment="VERY SKIBIDI SIGMA">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/DUMDUM_CMPE.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python File (Lecture)/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Package/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSHARPO/CSHARPO.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSHARPO/CSHARPO.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSHARPO/bin/Debug/net9.0/CSHARPO.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSHARPO/bin/Debug/net9.0/CSHARPO.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSHARPO/bin/Debug/net9.0/CSHARPO.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSHARPO/bin/Debug/net9.0/CSHARPO.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSHARPO/bin/Debug/net9.0/CSHARPO.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSHARPO/obj/CSHARPO.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSHARPO/obj/CSHARPO.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSHARPO/obj/CSHARPO.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSHARPO/obj/Debug/net9.0/.NETCoreApp,Version=v9.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSHARPO/obj/Debug/net9.0/CSHARPO.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSHARPO/obj/Debug/net9.0/CSHARPO.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSHARPO/obj/Debug/net9.0/CSHARPO.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSHARPO/obj/Debug/net9.0/CSHARPO.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSHARPO/obj/Debug/net9.0/CSHARPO.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSHARPO/obj/Debug/net9.0/CSHARPO.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSHARPO/obj/Debug/net9.0/CSHARPO.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSHARPO/obj/Debug/net9.0/CSHARPO.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSHARPO/obj/Debug/net9.0/CSHARPO.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSHARPO/obj/Debug/net9.0/CSHARPO.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSHARPO/obj/Debug/net9.0/apphost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSHARPO/obj/Debug/net9.0/ref/CSHARPO.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSHARPO/obj/Debug/net9.0/refint/CSHARPO.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSHARPO/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSHARPO/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DUMDUM_CMPE/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DUMDUM_CMPE/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DUMDUM_CMPE/.idea/DUMDUM_CMPE.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DUMDUM_CMPE/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DUMDUM_CMPE/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DUMDUM_CMPE/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DUMDUM_CMPE/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DUMDUM_CMPE/Config/config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DUMDUM_CMPE/Python File (Lecture)/Dumdum_CMPE (First Python Code).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DUMDUM_CMPE/Python File (Lecture)/Dumdum_CMPE (Vibe Coding Calculator).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DUMDUM_CMPE/Python Package/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DUMDUM_CMPE/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DUMDUM_CMPE/Test/demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DUMDUM_CMPE/Test/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA_MAN.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +74,7 @@
         <option name="title" value="All" />
       </GitPushTagMode>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -213,6 +247,7 @@
       <updated>1759538738563</updated>
       <workItem from="1759538739797" duration="13476000" />
       <workItem from="1759982121989" duration="1509000" />
+      <workItem from="1760072092509" duration="84000" />
     </task>
     <task id="LOCAL-00001" summary="VERY SKIBIDI SIGMA">
       <option name="closed" value="true" />
